@@ -1,7 +1,7 @@
 ### Hi 👋 
 
 - 💬 Ask me about software engineering
-- 📫 How to reach me: @geraldncube
+- 📫 How to reach me: [@geraldncube](https://twitter.com/geraldncube)
 
 <!--
 **gncube/gncube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
