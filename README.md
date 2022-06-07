@@ -1,6 +1,7 @@
 ### Hi 👋 
 
-#### Schneider Electric
+- 💬 Ask me about software engineering
+- 📫 How to reach me: @geraldncube
 
 <!--
 **gncube/gncube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
